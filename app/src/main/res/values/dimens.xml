@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardViewCorner">16dp</dimen>
+    <dimen name="elevate_dimen">8dp</dimen>
+    <dimen name="drawablePadding">4dp</dimen>
+</resources>
